@@ -1,5 +1,7 @@
 ---
 layout: page
+navlevel: header
+navtitle: About
 title: About
 permalink: /about/
 ---
