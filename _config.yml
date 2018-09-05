@@ -27,7 +27,7 @@ instagram_username: detective_azul
 
 # Build settings
 markdown: kramdown
-color_scheme: monokai
+color_scheme: github
 # theme: jekyll-theme-kagami
 plugins:
   - jekyll-feed

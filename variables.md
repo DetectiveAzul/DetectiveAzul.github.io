@@ -3,6 +3,7 @@ layout: page
 title: Variables
 navlevel: header
 navtitle: variables
+position: 2
 ---
 
 This page previews variables in Jekyll with `jsonify` filter.
@@ -54,4 +55,3 @@ This page previews variables in Jekyll with `jsonify` filter.
 ```json
 {{ site.tags | jsonify }}
 ```
-
