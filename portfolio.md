@@ -1,14 +1,11 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-description: "Test description to check how it looks on the layout"
-date:   2018-09-03 11:03:41 +0100
-categories: jekyll update
-cover_url: https://s2.banana.moe/unsplash_colle/amador-loureiro-779.jpg
+layout: page
+navlevel: header
+navtitle: Portfolio
+title: Portfolio
+permalink: /portfolio/
+position: 2
 ---
-<!-- ![My helpful screenshot](https://hipertextual.com/files/2016/12/mario-run-670x410.jpg)
-{:.side-note} -->
-
 
 # Sic haec semimari erat saepe cuius
 
@@ -16,7 +13,6 @@ cover_url: https://s2.banana.moe/unsplash_colle/amador-loureiro-779.jpg
 
 Lorem [markdownum](http://www.si.io/), accipe; edidit unda madefacta suumque
 dabunt, rictus. Nunc tua spatio tanti.
-{:.side-note}
 
 Palladias undas. Veni omne Argis dedissent Athenae illis Harpyia Typhoea novae?
 Ut quod manus recessus ait Placatus, vulgata scrobibus patiente post, quod

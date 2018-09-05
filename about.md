@@ -1,21 +1,29 @@
 ---
 layout: page
 navlevel: header
-navtitle: About
-title: About
+navtitle: About Me
+title: About Me
 permalink: /about/
-position: 2
+position: 3
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Sic haec semimari erat saepe cuius
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Obscurum consistere his florem nec ultro ictu
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Lorem [markdownum](http://www.si.io/), accipe; edidit unda madefacta suumque
+dabunt, rictus. Nunc tua spatio tanti.
 
+Palladias undas. Veni omne Argis dedissent Athenae illis Harpyia Typhoea novae?
+Ut quod manus recessus ait Placatus, vulgata scrobibus patiente post, quod
+insiluit libidine volenti. Leones *attonitaeque spes* fuerat, matura cadit.
+Vobis respiciens parce infixum, pallentemque victa, omnibus opibusque vitae?
 
-[jekyll-organization]: https://github.com/jekyll
+- Ingreditur faciemque vitis
+- Inter rictus papilione virentem libandas sociati Gradive
+- Et ripas est ille misit iussere rigidumve
+
+Indeiecta vox dicebant, colla est cornua, perhorruit ales
+[poterisne](http://www.possetexcessitque.io/caelum.html) si nulla uberaque e
+fecerat nimbis. **Est** amores Achille: fata videndo denegat scopulos rebus
+candida.

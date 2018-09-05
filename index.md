@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
-navtitle: home
+title: Blog
+navtitle: Blog
 navlevel: header
 position: 1
 ---
