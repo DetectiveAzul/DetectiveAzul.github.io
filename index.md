@@ -5,4 +5,5 @@
 layout: home
 navtitle: home
 navlevel: header
+position: 1
 ---
