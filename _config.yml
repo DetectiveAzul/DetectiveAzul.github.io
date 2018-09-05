@@ -27,6 +27,7 @@ instagram_username: detective_azul
 linkedin_username: jlopezrodriguez
 
 google_analytics: UA-125274136-1
+disqus_shortname: Devazul
 
 # Build settings
 markdown: kramdown
