@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-description: "Test description to check how it looks on the layout"
-date:   2018-09-03 11:03:41 +0100
-categories: jekyll update
+title:  "This is Devazul"
+description:
+date:   2018-09-05 15:30:30 +0100
+categories:
+tags:
 cover_url: https://s2.banana.moe/unsplash_colle/amador-loureiro-779.jpg
 ---
 <!-- ![My helpful screenshot](https://hipertextual.com/files/2016/12/mario-run-670x410.jpg)
