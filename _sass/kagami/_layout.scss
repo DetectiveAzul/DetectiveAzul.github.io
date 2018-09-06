@@ -124,8 +124,9 @@ article {
   flex-flow: row wrap;
   align-items: top;
   justify-content: center;
-  align-items: flex-end;
-  flex-direction: column;
+  // align-items: flex-end;
+  // flex-direction: column;
+  // height: 25;
   margin-left: -$post-margin-width;
   margin-right: -$post-margin-width/3;
 }
