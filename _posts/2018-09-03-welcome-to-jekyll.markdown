@@ -3,8 +3,7 @@ layout: post
 title:  "This is Devazul"
 description:
 date:   2018-09-05 15:30:30 +0100
-categories:
-tags:
+category: blog
 cover_url: https://s2.banana.moe/unsplash_colle/amador-loureiro-779.jpg
 ---
 <!-- ![My helpful screenshot](https://hipertextual.com/files/2016/12/mario-run-670x410.jpg)

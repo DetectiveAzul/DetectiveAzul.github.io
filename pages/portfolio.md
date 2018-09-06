@@ -1,10 +1,10 @@
 ---
+title: Portfolio
 layout: post-list
 filter:
-  -by_tag: project
+  - by_category: portfolio
 navlevel: header
 navtitle: Portfolio
-title: Portfolio
-permalink: tags/portfolio/
+permalink: portfolio
 position: 2
 ---
