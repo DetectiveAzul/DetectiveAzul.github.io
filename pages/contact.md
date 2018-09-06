@@ -1,8 +1,8 @@
 ---
 layout: contact
 navlevel: header
-navtitle: Contact Me
+navtitle: Contact
 title: Contact Me
 permalink: /contact/
-position: 4
+position: 5
 ---

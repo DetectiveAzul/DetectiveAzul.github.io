@@ -1,7 +1,7 @@
 ---
 layout: page
 navlevel: header
-navtitle: About Me
+navtitle: About
 title: About Me
 permalink: /about/
 position: 3
