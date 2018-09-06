@@ -5,6 +5,6 @@ filter:
 navlevel: header
 navtitle: Portfolio
 title: Portfolio
-permalink: /portfolio/
+permalink: tags/portfolio/
 position: 2
 ---
