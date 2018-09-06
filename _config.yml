@@ -16,9 +16,9 @@
 title: Devazul
 email: jaimelopez.developer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Devazul is the personal blog, sort of portfolio, where I drop
+  any kind of thought I can have about the tech world, software development,
+  coding or any of my other interests.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.devazul.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DetectiveAzul
