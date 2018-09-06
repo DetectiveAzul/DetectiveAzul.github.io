@@ -124,14 +124,18 @@ article {
   flex-flow: row wrap;
   align-items: top;
   justify-content: center;
+  align-items: flex-end;
+  flex-direction: column;
   margin-left: -$post-margin-width;
-  margin-right: -$post-margin-width;
+  margin-right: -$post-margin-width/3;
 }
 
 @media screen and (min-width: $content-width) {
   .site-nav {
     height: 0;
     justify-content: flex-end;
+    flex-direction: row;
+    align-items: baseline;
   }
 }
 
