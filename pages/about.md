@@ -7,23 +7,9 @@ permalink: /about/
 position: 3
 ---
 
-# Sic haec semimari erat saepe cuius
+About Jaime, he was born in 1989 on Southern Spain and, through a long trip that started with the end of a BSc in Clinical Psychology, he finally became a Software Developer on the summer of 2018 thanks to [CodeClan's intensive software development course](https://codeclan.com/courses/16-week-course/). Even though his main motivator to learn coding was joining the VideoGame business, he has discovered his *true passion* on reading and writing any kind of code, turning his hobby into a job.  
 
-## Obscurum consistere his florem nec ultro ictu
+He has been lately working on Ruby, C#, Unity3D, Java and NodeJS.
 
-Lorem [markdownum](http://www.si.io/), accipe; edidit unda madefacta suumque
-dabunt, rictus. Nunc tua spatio tanti.
-
-Palladias undas. Veni omne Argis dedissent Athenae illis Harpyia Typhoea novae?
-Ut quod manus recessus ait Placatus, vulgata scrobibus patiente post, quod
-insiluit libidine volenti. Leones *attonitaeque spes* fuerat, matura cadit.
-Vobis respiciens parce infixum, pallentemque victa, omnibus opibusque vitae?
-
-- Ingreditur faciemque vitis
-- Inter rictus papilione virentem libandas sociati Gradive
-- Et ripas est ille misit iussere rigidumve
-
-Indeiecta vox dicebant, colla est cornua, perhorruit ales
-[poterisne](http://www.possetexcessitque.io/caelum.html) si nulla uberaque e
-fecerat nimbis. **Est** amores Achille: fata videndo denegat scopulos rebus
-candida.
+---
+One day a soft, cool breeze of a harsh winter found a warm and shy early-born sunbeam. In this strange meeting, **Spring** was born. So, on the first morning of an incipient change of season, **He** was born under the glow of two nightsky's princesses. He has a lot of names, but like everything in this world, He has only one *True Name*. But He doesn't know it and due to this, he is spending his *whole* life finding it.
