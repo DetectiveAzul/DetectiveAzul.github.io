@@ -4,7 +4,7 @@ navlevel: header
 navtitle: About
 title: About Me
 permalink: /about/
-position: 3
+position: 6
 ---
 
 About Jaime, he was born in 1989 in southern Spain and, through a long trip that started with the end of a BSc in Clinical Psychology, he finally became a Software Developer in the summer of 2018 thanks to [CodeClan's intensive software development course](https://codeclan.com/courses/16-week-course/). Even though his main motivator to learn coding was joining the Videogame industry, he has discovered his *true passion* on reading and writing any kind of code, turning his hobby into a job.  
