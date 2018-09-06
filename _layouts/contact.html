@@ -1,0 +1,29 @@
+---
+layout: default
+---
+{% include site-nav.html %}
+
+<article class="page" lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="http://schema.org/BlogPosting">
+  {% include header.html %}
+
+  <div class="post-content" itemprop="articleBody">
+    <form action="https://formspree.io/{{site.email}}" method="POST">
+      <div class="row">
+        <label for="icon_prefix">Name</label>
+        <input required type="text" name="name">
+      </div>
+      <div class="row">
+        <label for="email">Email</label>
+        <input required type="email" name="_replyto">
+      </div>
+      <div class="row">
+        <label for="message">Message</label>
+        <textarea class="form-text-area" required name="message" placeholder="Write your email"></textarea>
+      </div>
+      <div class="row submit-button">
+        <button class="form-submit social-link" type="submit" name="action">Submit</button>
+      </div>
+    </form>
+
+  </div>
+</article>
