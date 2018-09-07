@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Foodie"
-description:
+description: React Single Page Application that interacts with a RESTful food recipe API built on KOA.js, being able to create, read, update and delete entries from the DB2 database.
 date:   2018-09-03 10:30:00 +0100
 category: portfolio
 cover_url: /assets/img/portfolio/foodie.jpg

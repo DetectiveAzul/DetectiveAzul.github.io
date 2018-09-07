@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "xChess"
-description:
+description: React Single-Page Chess Game with network capabilities through the use of Socket.IO and a NoSQL database for storing the state of the games.
 date:   2018-08-10 16:00:00 +0100
 category: portfolio
 cover_url: /assets/img/portfolio/xchess.jpg
