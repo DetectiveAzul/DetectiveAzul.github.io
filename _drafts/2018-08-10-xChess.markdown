@@ -8,7 +8,9 @@ cover_url: /assets/img/portfolio/xchess.jpg
 ---
 ## Backstory
 
-Following on the adventures of hitting my first job as a Software Developer, I discover that the learning stage did not finished along with [Codeclan's](https://codeclan.com) course, but that a Dev never stops learning, not a single day. 
+Following on the adventures of hitting my first job as a Software Developer, I discover that the learning stage did not finished along with [Codeclan's](https://codeclan.com) course, but that a Dev never stops learning, not a single day.
+
+[WIP]
 
 ## xChess
 
