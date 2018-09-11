@@ -13,9 +13,9 @@ On technical level, I think this project was the most challenging of all of my a
 <sub>1</sub>. At the end, developing games was one of my objective for the future professional me.
 {:.side-note}
 
-During our [first Ruby project](/portfolio/2018/04/06/compendium.html) the brief we received about what kind of app we should create it was a lot more specific. There is also less decision involved on creating *a multi-page website with a database* than a Android application. So, even though It was clear for me I wanted to create a **game**<sub>1</sub>, it needed to be simple enough to beat the, always a constant in the course, 5-days time constraint for project weeks.
+During our [first Ruby project](/portfolio/2018/04/06/compendium.html) the brief we received about what kind of app we should create was a lot more specific. There is also less decision involved on creating *a multi-page website with a database* than an Android application. So, even though It was clear for me I wanted to create a **game**<sub>1</sub>, it needed to be simple enough to beat the, always a constant in the course, 5-days time constraint for project weeks.
 
-I am a full geek of boardgames, I recognise that. So I had for, at least, 10 weeks this idea of developing a multi-player version of one of my favourite games: [**Ricochet Robots**](https://boardgamegeek.com/boardgame/51/ricochet-robots). Something I could just play online with my friends in Spain, or with whoever had a phone or tablet and wanted to exchange some *mind-breaking* moments involving robots ricocheting through a lab.
+I am a **total** geek of boardgames, I recognise that. So I had for, at least, 10 weeks this idea of developing a multi-player version of one of my favourite games: [**Ricochet Robots**](https://boardgamegeek.com/boardgame/51/ricochet-robots). Something I could just play online with my friends in Spain, or with whoever had a phone or tablet and wanted to exchange some *mind-breaking* moments involving robots ricocheting through a lab.
 
 But! But! It was too ambitious, or that was I thought the day before starting, so between talks and drinks, I came with another great, and I thought simpler, idea. And here we have our **first factor** on why it was the most challenging project.
 
