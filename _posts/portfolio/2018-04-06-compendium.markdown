@@ -9,6 +9,7 @@ cover_url: /assets/img/portfolio/compendium.jpg
 ## Backstory
 
 Compendium was born during my fifth week on [Codeclan](https://codeclan.com) intensive course. It was made with two ideas on mind:
+
 * It needed to be simple enough to be made on the five days I only had to create the whole WebApp
 * I wanted to create something it could be used by me or friends
 
