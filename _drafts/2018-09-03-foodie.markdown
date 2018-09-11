@@ -6,3 +6,10 @@ date:   2018-09-03 10:30:00 +0100
 category: portfolio
 cover_url: /assets/img/portfolio/foodie.jpg
 ---
+## Foodie
+
+
+## Links
+
+<!-- * You can find [here]() a live demo, deployed using [Zeit Now](https://www.heroku.com/) -->
+* You can look through the ugly code by visiting the [Github repo](https://github.com/DetectiveAzul/recipe-project)
