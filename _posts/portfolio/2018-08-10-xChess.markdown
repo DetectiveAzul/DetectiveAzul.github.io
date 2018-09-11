@@ -8,14 +8,13 @@ cover_url: /assets/img/portfolio/xchess.jpg
 ---
 ## Backstory
 
+Following on the adventures of hitting my first job as a Software Developer, I discover that the learning stage did not finished along with [Codeclan's](https://codeclan.com) course, but that a Dev never stops learning, not a single day. 
 
 ## xChess
 
 <sub>1</sub>. *S*ingle-*P*age *A*pplication
 {:.side-note}
 As my first React project, and the first thing I built outside of [Codeclan](https://codeclan.com), **xChess** was made with the only objective of learning how to built a *SPA*<sub>1</sub> using *React*, although I also added a small *ExpressJS API* to load/save games.
-
-
 
 Using a few fancy buzzwords, **xChess** is a **React SPA** WebApp for playing chess powered with **Socket.IO** for network play, **Express** to handle **RESTful** routes that help the app to store/retrieve games on a **MongoDB** database and allowing multiple players to play multiple games at the same time, against other Human players or even a basic IA.
 
