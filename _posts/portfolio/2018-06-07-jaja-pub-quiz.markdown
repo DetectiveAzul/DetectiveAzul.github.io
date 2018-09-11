@@ -13,7 +13,7 @@ cover_url: /assets/img/portfolio/pubquiz.jpg
 
 This game will create a Trivia Quiz for a group of up to 4 teams using the user input form on the app homepage. This form will create a link that will fetch the questions from an external API called [OpenTDB](https://opentdb.com/).
 
-Tech Stack used:
+**Tech Stack used:**
 
 * JavaScript, HTML and CSS for the front-end
 * [NPM](https://www.npmjs.com/) for managing all the JS packages.
