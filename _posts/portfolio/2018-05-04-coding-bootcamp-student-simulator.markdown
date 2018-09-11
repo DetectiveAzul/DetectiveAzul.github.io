@@ -19,7 +19,7 @@ I am a full geek of boardgames, I recognise that. So I had for, at least, 10 wee
 
 But! But! It was too ambitious, or that was I thought the day before starting, so between talks and drinks, I came with another great, and I thought simpler, idea. And here we have our **first factor** on why it was the most challenging project.
 
-### <center>I'm my own enemy</center>
+### <center>I am my own enemy</center>
 
 Yes, after ten stressful weeks of code learning, I started panicking. A wild *Impostor syndrome* appeared in the middle of the project and I lose the faith on the app I was building: *Coding Bootcamp Student Simulator*. A simulation game parodying the daily life of the students of my course.
 
