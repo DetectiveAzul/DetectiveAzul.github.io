@@ -13,6 +13,15 @@ cover_url: /assets/img/portfolio/pubquiz.jpg
 
 This game will create a Trivia Quiz for a group of up to 4 teams using the user input form on the app homepage. This form will create a link that will fetch the questions from an external API called [OpenTDB](https://opentdb.com/).
 
+Tech Stack used:
+
+* JavaScript, HTML and CSS for the front-end
+* [NPM](https://www.npmjs.com/) for managing all the JS packages.
+* [Mocha](https://mochajs.org/) for unit testing
+* [Webpack](https://webpack.js.org/) to create the JS bundle
+* [MongoDB](https://www.mongodb.com/) for the database
+* [Express](http://expressjs.com/) for the server-side
+
 ## Links
 
 * [You can access here a live demo](http://pubquiz.devazul.co.uk) you can look at and play with. Since it is written on vanilla JavaScript, and was my first JavaScript app, there are some browsers that have problems with it, so I would recommend to use [Google Chrome](https://www.google.com/chrome/).
