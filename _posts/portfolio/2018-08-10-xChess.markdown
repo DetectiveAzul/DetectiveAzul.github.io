@@ -6,9 +6,35 @@ date:   2018-08-10 16:00:00 +0100
 category: portfolio
 cover_url: /assets/img/portfolio/xchess.jpg
 ---
+## Backstory
+
 
 ## xChess
 
+<sub>1</sub>. *S*ingle-*P*age *A*pplication
+{:.side-note}
+As my first React project, and the first thing I built outside of [Codeclan](https://codeclan.com), **xChess** was made with the only objective of learning how to built a *SPA*<sub>1</sub> using *React*, although I also added a small *ExpressJS API* to load/save games.
+
+
+
+Using a few fancy buzzwords, **xChess** is a **React SPA** WebApp for playing chess powered with **Socket.IO** for network play, **Express** to handle **RESTful** routes that help the app to store/retrieve games on a **MongoDB** database and allowing multiple players to play multiple games at the same time, against other Human players or even a basic IA.
+
+I have some libraries to ease a bit the process of creating the Chessboard and integrating it with Chess moves.
+
+* [Chess.js](https://github.com/jhlywa/chess.js/blob/master/README.md)
+* [Chessboard.js](http://chessboardjs.com/)
+* [Chessboard.js REACT](https://github.com/siansell/react-chessboardjs)
+
+For the notification system I used a React Component available from NPM itself:
+
+* [React Browser Notifications](https://www.npmjs.com/package/react-browser-notifications)
+
+And, of course, the more wide-known:
+
+* [React](https://github.com/facebook/create-react-app)
+* [Express](http://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [Socket.io](https://socket.io/)
 
 ## Links
 
