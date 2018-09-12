@@ -8,9 +8,18 @@ cover_url: /assets/img/portfolio/xchess.jpg
 ---
 ## Backstory
 
-Following on the adventures of hitting my first job as a Software Developer, I discover that the learning stage did not finished along with [Codeclan's](https://codeclan.com) course, but that a Dev never stops learning, not a single day.
+Following on the adventures of hitting my first job as a Software Developer, I discovered that the learning stage did not finished along with [Codeclan's](https://codeclan.com) course, but that a Dev never stops learning, not a single day. Never.
 
-[WIP]
+*Obviously, at the moment I write these words
+{:.side-note}
+Nope. There is no escape. One of the first things I heard on July upon starting at my actual job<sub>*</sub> was:
+<br>
+<br>
+> "I have been working on this for 20 years and I'm still learning"
+
+So yeas, that confirmed my suspicion. But, hey, I love learning, so that was actually a good thing to hear. Why? Because that meant that, apart from my daily job code, I would have some time to spend on small learning projects.
+
+And that was the origin of **xChess** which main function was to learn the basic tricks of *React*, but, since I always wanted to try to do some multiplayer game, I took the opportunity to make this very simple online Chess game to play with my partner and friends from time to time. 
 
 ## xChess
 
@@ -20,7 +29,7 @@ As my first React project, and the first thing I built outside of [Codeclan](htt
 
 Using a few fancy buzzwords, **xChess** is a **React SPA** WebApp for playing chess powered with **Socket.IO** for network play, **Express** to handle **RESTful** routes that help the app to store/retrieve games on a **MongoDB** database and allowing multiple players to play multiple games at the same time, against other Human players or even a basic IA.
 
-I have some libraries to ease a bit the process of creating the Chessboard and integrating it with Chess moves.
+I have used some libraries to ease a bit the process of creating the Chessboard and integrating it with Chess moves.
 
 * [Chess.js](https://github.com/jhlywa/chess.js/blob/master/README.md)
 * [Chessboard.js](http://chessboardjs.com/)
