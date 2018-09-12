@@ -38,7 +38,7 @@ The player has two tools:
 
 ## Links
 
-* You can find [here](https://detectiveazul.itch.io/always-go-east) the download page for the game, published on [Itch.io](https://www.heroku.com/)
+* You can find [here](https://detectiveazul.itch.io/always-go-east) the download page for the game, published on [Itch.io](https://itch.io)
 * You can [check here](https://itch.io/jam/talentum-online/rate/182750) our entry for the [Telefónica Talentum Jam](https://itch.io/jam/talentum-online)
 
 ## Members of the team

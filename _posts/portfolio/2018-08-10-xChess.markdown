@@ -19,7 +19,7 @@ Nope. There is no escape. One of the first things I heard on July upon starting 
 
 So yeas, that confirmed my suspicion. But, hey, I love learning, so that was actually a good thing to hear. Why? Because that meant that, apart from my daily job code, I would have some time to spend on small learning projects.
 
-And that was the origin of **xChess** which main function was to learn the basic tricks of *React*, but, since I always wanted to try to do some multiplayer game, I took the opportunity to make this very simple online Chess game to play with my partner and friends from time to time. 
+And that was the origin of **xChess** which main function was to learn the basic tricks of *React*, but, since I always wanted to try to do some multiplayer game, I took the opportunity to make this very simple online Chess game to play with my partner and friends from time to time.
 
 ## xChess
 
@@ -48,5 +48,5 @@ And, of course, the more wide-known:
 
 ## Links
 
-* You can find [here](https://client-yuahsuhetl.now.sh/) a live demo, deployed using [Zeit Now](https://www.heroku.com/)
+* You can find [here](https://client-yuahsuhetl.now.sh/) a live demo, deployed using [Zeit Now](https://zeit.co)
 * You can look through the ugly code by visiting the [Github repo](https://github.com/DetectiveAzul/xChess)

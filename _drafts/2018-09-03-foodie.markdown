@@ -11,5 +11,5 @@ cover_url: /assets/img/portfolio/foodie.jpg
 
 ## Links
 
-<!-- * You can find [here]() a live demo, deployed using [Zeit Now](https://www.heroku.com/) -->
+* App is in process of being deploy, so sadly there is no live demo yet
 * You can look through the ugly code by visiting the [Github repo](https://github.com/DetectiveAzul/recipe-project)
