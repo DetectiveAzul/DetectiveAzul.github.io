@@ -41,3 +41,11 @@ This game will create a Trivia Quiz for a group of up to 4 teams using the user 
 
 * [You can access here a live demo](http://pubquiz.devazul.co.uk) you can look at and play with. Since it is written on vanilla JavaScript, and was my first JavaScript app, there are some browsers that have problems with it, so I would recommend to use [Google Chrome](https://www.google.com/chrome/).
 * You can look through the ugly code by visiting the [Github repo itself](https://github.com/DetectiveAzul/cc-group-project_trivia).
+
+## Members of the team
+
+You can find profiles of the other members of the team here:
+
+* [Alex Scott](https://www.linkedin.com/in/david-aguirre-molins-b3834a76/) - *Junior Software Developer*
+* [Jemma Johnston](https://www.linkedin.com/in/jemma-johnston-crayolapancake/) - *Junior Software Developer*
+* [Andris Undiks](https://github.com/Andris-U) - *Junior Software Developer*
