@@ -1,31 +1,31 @@
 ---
 layout: post
-title:  "Foodie"
+title: 'Foodie'
 description: React Single-Page Application that interacts with a RESTful food recipe API built on KOA.js, being able to create, read, update and delete entries from the DB2 database.
-date:   2018-09-03 10:30:00 +0100
+date: 2018-09-03 10:30:00 +0100
 category: portfolio
 cover_url: /assets/img/portfolio/foodie.jpg
 ---
 
 ## Foodie
 
-**Foodie** is a learning project we have developed in order to learn the tricks and secrets behind React JS. In a few fancy buzzword, **Foodie** is a **React Single-Page** web application for fetch recipes from an API powered with **@Reach/Router** for front-end routing, **Redux** to control the app state and **KOA** to handle **RESTful** API routes that help the app to store/retrieve the recipes on a **PSQL** database. The basic idea of **Foodie** was to learn all this tool before joining one of the teams on our first job as developers so we could know the basics of the main tools they use. 
+**Foodie** is a learning project we have developed in order to learn the tricks and secrets behind React JS. In a few fancy buzzword, **Foodie** is a **React Single-Page** web application for fetch recipes from an API powered with **@Reach/Router** for front-end routing, **Redux** to control the app state and **KOA** to handle **RESTful** API routes that help the app to store/retrieve the recipes on a **PSQL** database. The basic idea of **Foodie** was to learn all this tool before joining one of the teams on our first job as developers so we could know the basics of the main tools they use.
 
-* [React](https://github.com/facebook/create-react-app)
-* [Redux](https://redux.js.org/introduction)
-* [Koa](https://koajs.com/)
-* [@Reach/Router](https://reach.tech/router)
-* [PSQL](https://www.postgresql.org/)
+- [React](https://github.com/facebook/create-react-app)
+- [Redux](https://redux.js.org/introduction)
+- [Koa](https://koajs.com/)
+- [@Reach/Router](https://reach.tech/router)
+- [PSQL](https://www.postgresql.org/)
 
 ![Foodie screenshot](https://github.com/DetectiveAzul/recipe-project/blob/master/image.png?raw=true)
 
 ## Links
 
-* App is in process of being deploy, so sadly there is no live demo yet
-* You can look through the ugly code by visiting the [Github repo](https://github.com/DetectiveAzul/recipe-project)
+- App is in process of being deploy, so sadly there is no live demo yet
+- You can look through the ugly code by visiting the [Github repo](https://github.com/DetectiveAzul/recipe-project)
 
 ## Members of the team
 
 You can find profiles of the other members of the team here:
 
-* [Jussi Pardoe](https://www.linkedin.com/in/jussipardoe/) - *Junior Software Developer*
+- [Jussi Pardoe](https://www.linkedin.com/in/jussipardoe/) - _Junior Software Developer_
