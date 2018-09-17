@@ -21,7 +21,7 @@ cover_url: /assets/img/portfolio/foodie.jpg
 
 ## Links
 
-- You can find [here](https://foodie.devazul.co.uk) a live demo, deployed using [Heroku](https://heroku.com)
+- You can find [here](http://foodie.devazul.co.uk) a live demo, deployed using [Heroku](https://heroku.com)
 - You can look through the ugly code by visiting the [Github repo](https://github.com/DetectiveAzul/recipe-project)
 
 ## Members of the team
